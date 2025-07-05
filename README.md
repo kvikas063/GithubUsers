@@ -10,7 +10,10 @@ There are two options to proceed.
 
 
 #### 1. Proceed with Login
-    Set Github personal access token stored in Constant file to Token Manager - For demo pupose only.
+    Set Github personal access token from Constant file to Token Manager.
+    Add your GitHub personal toke while running the project.
+
+**Note:** `Token` is removed during commit due to github push protection policy.
 
 #### 2. Continue as Guest
     Continue as guest without access token.
@@ -59,7 +62,7 @@ MVVM (Model-View-ViewModel) architecture design is used, to implement this proje
 
 |              Light Mode Demo              |             Dark Mode Demo               |
 | ----------------------------------------- | ---------------------------------------- |
-| ![GitHub Users Demo](Resources/light.gif) | ![GitHub Users Demo](Resources/dark.gif) |
+| ![GitHub Users Demo](GithubUsers/GithubUsers/Resources/light.gif) | ![GitHub Users Demo](GithubUsers/GithubUsers/Resources/dark.gif) |
 
 
 ---
