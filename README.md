@@ -37,7 +37,6 @@ Fetch and show user detail and repositories from `users/<id>` and `users/\(id)/r
 It also handles error case in case of no availabe users found.
 
 ---
----
 
 #### Token Manager
     It handles access token for login
